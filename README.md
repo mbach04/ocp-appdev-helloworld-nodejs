@@ -9,7 +9,7 @@ There are two files:
 
 ### How to Test
 
-##### Step 1. Move to the source code directory
+##### Step 1. Move to the source code directory.
 
 ```
 $ cd ose-dev3-helloworld-nodejs
